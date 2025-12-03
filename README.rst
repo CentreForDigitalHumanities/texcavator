@@ -1,4 +1,4 @@
-**This project is no longer maintained and has been archived. It is succeeded by I-Analyzer, which is actively developed: https://github.com/UUDigitalHumanitieslab/I-analyzer.**
+**This project is no longer maintained and has been archived. It is succeeded by [Textcavator](https://https://github.com/CentreForDigitalHumanities/Textcavator/) (formerly known as I-analyzer), which is actively developed.**
 
 ::
 
