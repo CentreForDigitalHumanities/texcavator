@@ -1,4 +1,4 @@
-**This project is no longer maintained and has been archived. It is succeeded by Textcavator (formerly known as I-analyzer), which is actively developed: https://https://github.com/CentreForDigitalHumanities/Textcavator/ .**
+**This project is no longer maintained and has been archived. It is succeeded by Textcavator (formerly known as I-analyzer), which is actively developed: https://github.com/CentreForDigitalHumanities/Textcavator/ .**
 
 ::
 
